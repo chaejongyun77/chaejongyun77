@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻채종윤</h1>
+<h1 align="center">👨‍💻채종윤의 GitHub</h1>
 <p align="center">안녕하세요, 열정 가득한 개발자 채종윤입니다.</p>
 
 ---
