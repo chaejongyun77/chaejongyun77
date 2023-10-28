@@ -7,7 +7,7 @@
 
 ### 🚀 
 
-- **Duration**: `September 2022` - `December 2023`
+
 
 ### 🌟 KB_IT'S Your Life 4기
 
